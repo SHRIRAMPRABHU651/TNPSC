@@ -5,7 +5,8 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.29+-red.svg)](https://streamlit.io/)
 [![Gemini AI](https://img.shields.io/badge/Gemini%20AI-2.0%20Flash-green.svg)](https://ai.google.dev/gemini-api)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![DEMO](https://huggingface.co/spaces/shriramprabhu/TNPSC)]
+[![Demo](https://img.shields.io/badge/🤗%20HuggingFace-Demo-blue?logo=huggingface)](https://huggingface.co/spaces/shriramprabhu/TNPSC)
+
 
 
 A comprehensive AI-powered study platform for Tamil Nadu Public Service Commission (TNPSC) exam preparation. This application combines authentic TNPSC questions with AI-generated personalized study materials, interactive quizzes, and an intelligent tutor chatbot.
